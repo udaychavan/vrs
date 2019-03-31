@@ -1,0 +1,6 @@
+.idea/
+vrs/.idea/
+vrs/vacation-rental-app/target/
+vrs/vacation-rental-persistence/target/
+vrs/vacation-rental-core/target/
+*.iml
